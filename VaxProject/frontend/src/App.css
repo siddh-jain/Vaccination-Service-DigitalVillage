@@ -1,0 +1,28 @@
+.container {
+  margin: 20px;
+}
+
+
+.font-loader {
+  font-family: 'Chilanka';
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#vaccination_status{
+  background-color: rgb(247, 243, 243);
+  width: 30%;
+  height: 100%;
+  justify-content: center;
+}
+
+#message{
+  background-color: rgb(247, 243, 243);
+  width: 30%;
+  height: 100%;
+  justify-content: center;
+}
